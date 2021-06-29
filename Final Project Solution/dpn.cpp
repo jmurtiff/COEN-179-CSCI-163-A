@@ -136,7 +136,7 @@ bool insert(struct TrieNode *root, string line, double frequency)
 //Efficiency: O(line length) with line length being how long the string being passed to 
 //the function is.
 //
-//Return type: Boolean, True or False whether a word is in the Trie Tree or not. 
+//Return type: Boolean, True or False whether a word is in the Trie Tree or not. Test
 //
 //Precondition: A valid root to a Trie tree, and valid string.
 //
